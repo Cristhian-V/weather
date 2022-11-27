@@ -72,7 +72,7 @@ h1 {
     height: 50px;
 }
 
-@media (min-width:376px) {
+@media (min-width:460px) {
     .cardWheather-infoMain {
         display: flex;
         justify-content: center;
